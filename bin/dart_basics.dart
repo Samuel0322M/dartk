@@ -41,13 +41,11 @@ void main(List<String> arguments){
   } else {
     print("Eres pobre");
   }
+
+  int a = 1;
+  
+  print("Resultado es: ${++a}");
 }
 
-/*
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Samuel0322M/dartk.git
-git push -u origin main
-*/ 
+
+
